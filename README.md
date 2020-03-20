@@ -17,4 +17,4 @@ you’ll see examples later on.
 ## [Full instructions and examples](Instructions.pdf) (English)
 
 ## installation
-* As CMake project - target `CmakeLists.txt`.
+* As CMake project - target `CmakeLists.txt` or use Makefile.
