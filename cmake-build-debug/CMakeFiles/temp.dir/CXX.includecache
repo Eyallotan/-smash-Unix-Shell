@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Data/Technion/SemesterD/OS/HW/HW1/OS_HW1/Commands.h
+vector
+-
+unistd.h
+-
+string
+-
+list
+-
+time.h
+-
+signal.h
+-
+
+/mnt/c/Data/Technion/SemesterD/OS/HW/HW1/OS_HW1/ForegroundCommand.cpp
+cstdio
+-
+unistd.h
+-
+Commands.h
+/mnt/c/Data/Technion/SemesterD/OS/HW/HW1/OS_HW1/Commands.h
+iostream
+-
+string.h
+-
+sys/wait.h
+-
+SmallShell.h
+/mnt/c/Data/Technion/SemesterD/OS/HW/HW1/OS_HW1/SmallShell.h
+
+/mnt/c/Data/Technion/SemesterD/OS/HW/HW1/OS_HW1/SmallShell.h
+Commands.h
+/mnt/c/Data/Technion/SemesterD/OS/HW/HW1/OS_HW1/Commands.h
+
