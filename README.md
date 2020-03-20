@@ -13,3 +13,7 @@ you’ll see examples later on.
 - While the program is waiting for the next command to be entered, it should print the following text:
 `smash>`
 
+- [Full instructions and examples](Instructions.pdf) (English)
+
+## installation
+* As CMake project - target `CmakeLists.txt`.
