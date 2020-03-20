@@ -11,5 +11,5 @@ where command-line is the command line as typed by the user (note that the error
 you’ll see examples later on.
 - Whenever an error occurs a proper error message should be printed and the program should get back to parse and execute next typed commands.
 - While the program is waiting for the next command to be entered, it should print the following text:
-smash>
+`smash>`
 
